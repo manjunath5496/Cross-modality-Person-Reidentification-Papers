@@ -1,1 +1,1 @@
-# Cross modality Person Reidentification Papers
+# Cross Modality Person Reidentification Papers
